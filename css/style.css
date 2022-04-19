@@ -227,6 +227,9 @@ opacity: 0.5;
 }
 
 @media screen (max-width: 600px){
+ .top {
+  width: 60vw;}
  .top h1{
    font-size: 3 rem;}
 }
+
