@@ -225,3 +225,8 @@ opacity: 0.5;
 .bottom-container a:hover{
   color: white;
 }
+
+@media screen (max-width: 600px){
+ .top h1{
+   font-size: 3 rem;}
+}
